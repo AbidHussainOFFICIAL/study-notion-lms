@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AbidHussainOFFICIAL/study-notion-lms-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AbidHussainOFFICIAL/study-notion-lms-frontend
